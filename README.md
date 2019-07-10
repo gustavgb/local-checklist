@@ -4,7 +4,7 @@ https://checklist.gustavgb.com
 
 Handle those checklists in local storage. Pretty neat huh? Yeah, no more back-end stuff - indeed the future... Or, is it really? 😂️
 
-Made in one hour, because I needed something to procrastinate over before packing my back for vacation...
+Made in one hour, because I needed something to procrastinate over before packing my bag for vacation...
 
 Use with a smile 😁️
 
