@@ -2,11 +2,9 @@
 
 https://checklist.gustavgb.com
 
-Handle those checklists in local storage. Pretty neat huh? Yeah, no more back-end stuff - indeed the future... Or, is it really? 😂️
+Handle those checklists in local storage. Pretty neat huh? Yup, no more back-end stuff - indeed the future... Or, is it? 🤔️
 
-Made in one hour, because I needed something to procrastinate over before packing my bag for vacation...
-
-Use with a smile 😁️
+Hakuna matata - Use with a smile 😁️☮️
 
 ## How to develop
 
